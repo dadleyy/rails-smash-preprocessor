@@ -1,3 +1,5 @@
+require 'rails'
+
 module RailsSmash
   
   class SmashTie < Rails::Railtie

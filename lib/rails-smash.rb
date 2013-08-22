@@ -1,6 +1,3 @@
-require 'rails'
-require 'sprockets'
-
 module RailsSmash
   
   require 'rails-smash/smash_processor';  

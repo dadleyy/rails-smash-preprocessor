@@ -1,3 +1,5 @@
+require 'sprockets'
+
 module RailsSmash
   
   class SmashPreprocessor < Sprockets::Processor
