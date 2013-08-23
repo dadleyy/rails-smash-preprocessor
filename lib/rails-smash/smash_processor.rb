@@ -6,8 +6,8 @@ module RailsSmash
   
     IMPORT_DIRECTIVE = /^import\s"(.*)";?$/;
   
-    def evaluate(context, locals)
-      data.gsub( IMPORT_DIRECTIVE, "console.log('whattttaaaapp world');")
+    def evaluate(context, locals) 
+      
     end
     
   end
